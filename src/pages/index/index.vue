@@ -13,7 +13,7 @@
 			}
 		},
 		onLoad() {
-			console.log(uni.$u.config.v);
+			// console.log(uni.$u.config.v);
 		},
 		methods: {
 
